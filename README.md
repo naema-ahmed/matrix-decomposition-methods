@@ -15,7 +15,10 @@ Implementation and analysis of core numerical matrix decomposition algorithms, w
 - Error/Sensitivity analysis
 
 **Files:**
+
 src/ — MATLAB implementations of LU, QR, Schur, and SVD
+
 experiments/ — numerical error, stability, and runtime analyses
+
 report/ — technical report (PDF)
 
